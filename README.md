@@ -1,2 +1,8 @@
 # python3-machine_learning
-Machine Learning dengan menggunakan Python 3
+_________________________________________________________________
+Author : Bayu Aditya
+Dept   : Fisika
+Univ   : Universitas Indonesia
+_________________________________________________________________
+
+Kumpulan files machine learning collaboration untuk pembelajaran
