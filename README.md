@@ -1,6 +1,6 @@
 # python3-machine_learning
 _________________________________________________________________
-Author : Bayu Aditya
+Author : Bayu Aditya \n
 Dept   : Fisika
 Univ   : Universitas Indonesia
 _________________________________________________________________
